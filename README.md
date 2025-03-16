@@ -1,9 +1,9 @@
 # Maio de 2024
 
 | Maio de 2024 |          |                                                 |           |
-| Data         | Operação | Produto ou Serviço                              | Valor     |
 |--------------|----------|-------------------------------------------------|-----------|
 |              |          |                                                 |           |
+| Data         | Operação | Produto ou Serviço                              | Valor     |
 | 01/05/2024   | Crédito  | Saldo Anterior                                  | 7.348,20  |
 | 01/05/2024   | Débito   | Copo descartável                                | -120,00   |
 | 01/05/2024   | Débito   | Internet                                        | -120,00   |
